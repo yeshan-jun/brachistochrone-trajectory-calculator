@@ -1,0 +1,20 @@
+{
+  "repo_name": "brachistochrone-trajectory-calculator",
+  "description": "Calculate idealized flip-and-burn space travel time, ship time, flip point, and peak velocity in the browser.",
+  "visibility": "public",
+  "homepage": "https://yeshan-jun.github.io/brachistochrone-trajectory-calculator/",
+  "topics": [
+    "brachistochrone-trajectory-calculator",
+    "flip-and-burn-calculator",
+    "space-travel-calculator",
+    "constant-acceleration",
+    "relativistic-travel",
+    "physics-calculator",
+    "github-pages",
+    "pwa"
+  ],
+  "default_branch": "main",
+  "create_readme": false,
+  "source_stack": "html + css + js",
+  "pages_stack": "html + css + js"
+}

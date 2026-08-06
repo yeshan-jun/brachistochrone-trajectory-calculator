@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeshan-jun.github.io/brachistochrone-trajectory-calculator/sitemap.xml
