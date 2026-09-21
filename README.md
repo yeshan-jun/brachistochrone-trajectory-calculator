@@ -53,7 +53,7 @@ The relativistic calculation models constant proper acceleration. For distance `
 
 The site is a Progressive Web App. `manifest.json` defines the standalone application, theme, and generated maskable icons. `sw.js` precaches the complete runtime shell during installation. Every later same-origin GET request follows a network-first strategy: the browser requests the latest resource, updates the cache when the request succeeds, and uses the cached response if the network request fails. Navigation has an additional cached `index.html` fallback.
 
-SEO support includes a keyword-matched title, meta description, canonical URL, Open Graph metadata, Twitter metadata, structured data, `robots.txt`, and `sitemap.xml`. All official URLs target the repository owner’s GitHub Pages path.
+SEO support includes a keyword-matched title, meta description, canonical URL, Open Graph metadata, Twitter metadata, structured data, `robots.txt`, and `sitemap.xml`. All official URLs target the repository owner’s GitHub Pages path
 
 ## Project Structure
 
